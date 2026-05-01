@@ -205,3 +205,14 @@ If you have any issues or ideas, put it on [issues](https://github.com/yhl452493
 + [layui](https://github.com/layui/layui)
 + [layui-theme-dark](https://github.com/Sight-wcg/layui-theme-dark)
 + [echarts](https://github.com/apache/echarts)
+
+## License
+
+Copyright (c) 2026 sketchain
+
+This project is licensed under the [MPL 2.0](./LICENSE).
+
+Originally based on [yhl452493373/frps-panel](https://github.com/yhl452493373/frps-panel)
+(Apache License 2.0). Original copyright notices are retained as required by
+Apache 2.0 Section 4.
+
